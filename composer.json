@@ -1,0 +1,21 @@
+{
+    "name": "jasiph/yii2-materialize",
+    "description": "Materialize for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","materialize"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jasiph",
+            "email": "jasiph@cloudapps.biz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jasiph\\materialize\\": ""
+        }
+    }
+}
